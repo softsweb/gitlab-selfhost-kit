@@ -2,7 +2,9 @@
 
 Install your own GitLab Community Edition on a VPS with one command. The script asks one question, the address of your GitLab, and does the rest.
 
-Made for the SoftsWeb video "Self-Host GitLab + GitLab Runner" (link in the video description).
+Made for the SoftsWeb video: https://youtu.be/utJrE0R9A4o
+
+No server yet? You can get one here: https://softsweb.com/GitlabVPS (affiliate link, see the disclosure at the bottom).
 
 ## Before you start
 
